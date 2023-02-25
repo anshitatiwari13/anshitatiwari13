@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshitatiwari13
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning data structures and Machine Learning 
 - 📫 Reach me on anshut545@gmail.com
 
 <!---
